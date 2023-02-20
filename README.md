@@ -8,4 +8,5 @@ Could be found here : DOSI:\PLATEFORMES\IMAGIMM\Service\Management-Qualite\2_Ges
 ### 4.Put the folder mrxs2tiff containing this two directories , the blocs.dll, the bat and the readme in C:
 ### 5.Put the mrxs2tiff shortcutt in the desktop
 ### 6.Drag and drop the mrxs file to this shortcut to make the conversion in the same folder (around 1h for 20Go)
-![Clipboard](https://user-images.githubusercontent.com/41480459/220156638-ea3acd42-d142-4290-8749-ce620db40fc5.jpg)
+
+![Clipboard](https://user-images.githubusercontent.com/41480459/220156842-83284af8-8742-43a1-b3f9-2b1d74ffd743.jpg)

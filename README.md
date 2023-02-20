@@ -1,4 +1,4 @@
-# convert-mrxs-to-ometiff
+# Convert-mrxs-to-ome.tiff to be read in Qupath
 
 ### 1.Install java 8 (64 bits)
 ### 2.Download bioformat2raw-0.6.0

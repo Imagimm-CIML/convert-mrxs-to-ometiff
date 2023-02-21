@@ -10,3 +10,5 @@ Could be found here : DOSI:\PLATEFORMES\IMAGIMM\Service\Management-Qualite\2_Ges
 ### 6.Drag and drop the mrxs file to this shortcut to make the conversion in the same folder (around 1h for 20Go)
 
 ![Clipboard](https://user-images.githubusercontent.com/41480459/220156842-83284af8-8742-43a1-b3f9-2b1d74ffd743.jpg)
+
+###7. You can use Qupath/cellpose to count cells in annotation :                                                                                                          ![Clipboard-1](https://user-images.githubusercontent.com/41480459/220325043-0a3c61a8-b91a-426c-b53b-8f33809234bf.jpg)

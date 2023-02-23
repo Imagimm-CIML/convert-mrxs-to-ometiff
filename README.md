@@ -12,8 +12,8 @@ mrxs2tiff allows to convert MRXS files to OME TIFF files that can be read in sof
 Note: The script won't work with 32 bits systems or Java installation.
 
 ## Installation
-1- Download the mrxs2tiff package from Github releases (https://github.com/Imagimm-CIML/convert-mrxs-to-ometiff/releases)
-2- Unpack the ZIP archive in `C:` (it should be `C:\mrxs2tiff`) 
+1- Download the mrxs2tiff package from Github releases (https://github.com/Imagimm-CIML/convert-mrxs-to-ometiff/releases)  
+2- Unpack the ZIP archive in release v1.2 in `C:` (it should be `C:\mrxs2tiff`)   
 3- [OPTIONAL] Copy (or create) the link to mrxs2tiff.bat in `C:\mrxs2tiff\mrxs2tiff.lnk` to your desktop (or public desktop)
 4- Drag and drop your MRXS file(s) to the shortcut (or the `mrxs2tiff.bat` file)
 5- Wait for the conversion process to complete (~ 10 min for 10 GB)

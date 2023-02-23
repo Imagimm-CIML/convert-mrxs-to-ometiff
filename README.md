@@ -7,7 +7,7 @@ download in release v1.2
 download in release v1.2
 ### 4.Put the folder mrxs2tiff containing this two directories , the blocs.dll, the bat and the readme in C:
 ### 5.Put the mrxs2tiff shortcutt in the desktop
-### 6.Drag and drop the mrxs file to this shortcut to make the conversion in the same folder (around 1h for 20Go)
+### 6.Drag and drop the mrxs files (take care the mrxs file have the same name to the data) to this shortcut to make the conversion in the same folder (around 1h for 20Go)
 
 ![Clipboard](https://user-images.githubusercontent.com/41480459/220156842-83284af8-8742-43a1-b3f9-2b1d74ffd743.jpg)
 

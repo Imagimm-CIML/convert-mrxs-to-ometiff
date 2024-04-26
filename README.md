@@ -1,7 +1,7 @@
 # mrxs2tiff
 
 ## Description
-mrxs2tiff allows to convert MRXS files to OME TIFF files that can be read in software like QuPath.
+mrxs2tiff allows to convert MRXS files to OME TIFF files that can be read in software like QuPath.  
 Take care : “16 bit mrxs files, or mrxs files with more than 3 channels should be converted to tif..
 
 ## Requirements

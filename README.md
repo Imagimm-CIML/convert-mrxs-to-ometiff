@@ -3,6 +3,7 @@
 ## Description
 mrxs2tiff allows to convert MRXS files to OME TIFF files that can be read in software like QuPath.  
 Take care : “16 bit mrxs files, or mrxs files with more than 3 channels should be converted to classical tif with Caseviewer.
+Take care than  images path is local (use D drive with sufficient memmory) and contain no space or specific characters like e-accent.
 
 ## Requirements
  - Hardware (minimum): 2-core CPU @2GHz, 8GB of RAM
